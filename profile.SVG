@@ -53,7 +53,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" dy="1.2em" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, French, Spanish,</tspan>
 <tspan x="370" dy="1.2em" class="valueColor">Half Portuguese</tspan>
 <tspan x="370" dy="1.2em" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Data, Analytics, Business</tspan>
-<tspan x="370" dy="1.2em" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Building PCs</tspan>
+
 <tspan x="370" dy="1.2em" class="keyColor">Contact</tspan>:
 <tspan x="370" dy="1.2em">——————</tspan>
 <tspan x="370" dy="1.2em" class="keyColor">Email</tspan>: <tspan class="valueColor">tommy_ayala@hotmail.com</tspan>
