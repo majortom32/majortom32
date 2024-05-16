@@ -21,46 +21,43 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="150"> '` ']@@@@@@@@@@@@@@p     , ,'''` `        </tspan>
 <tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h '*||mkr     *       </tspan>
 <tspan x="15" y="190">  '  j%M`      |jkk'   ~nrn=|i    ;`       </tspan>
-<tspan x="15" y="210">   !  jrr*^`             `&quot;!  L'':!   </tspan>
-<tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy &quot;  ,~   </tspan>
+<tspan x="15" y="210">   !  jrr*^`             `"!  L'':!   </tspan>
+<tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy "  ,~   </tspan>
 <tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
 <tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j         </tspan>
 <tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%',[         </tspan>
 <tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@          </tspan>
-<tspan x="15" y="330">     &quot;djjmkL,&quot;]][,,,,wwxw;|#kjk` </tspan>
+<tspan x="15" y="330">     "djjmkL,""]][,,,,wwxw;|#kjk` </tspan>
 <tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
-<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||&quot;        </tspan>
+<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||"        </tspan>
 <tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
 <tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
 <tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
 <tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
 <tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
 <tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-<tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%&quot;.   `'i</tspan>
+<tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i</tspan>
 </text>
 
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">tommyayala</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, macOS</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">30 years, 5 months, 12 days</tspan>
-<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">MSc in Business Analytics and Technology Management</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Data Science, Business Development, Open Innovation</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">RStudio, PyCharm, Jupyter Notebook</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, SQL, R</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, French, Spanish, Portuguese</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Data Visualization, Machine Learning</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Building PCs</tspan>
-<tspan x="370" y="330" class="keyColor">Contact</tspan>:
-<tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">tommy.ayala@example.com</tspan>
-<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">tommyayala</tspan>
-<tspan x="370" y="410" class="keyColor">GitHub</tspan>: <tspan class="valueColor">tommyayala</tspan>
-<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">42</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">55</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">983  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">102</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">24  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">150,000</tspan> (<tspan class="addColor">180,000++</tspan>, <tspan class="delColor">30,000--</tspan>)
+<tspan x="370" dy="1.2em" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, macOS</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">ED</tspan>: <tspan class="valueColor">MSc in Business Analytics</tspan>
+<tspan x="370" dy="1.2em" class="valueColor">and Technology Management</tspan>
+<tspan x="370" dy="1.2em" class="valueColor">- BFA Electroacoustics</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Data Science, Business</tspan>
+<tspan x="370" dy="1.2em" class="valueColor">Development, Open Innovation,</tspan>
+<tspan x="370" dy="1.2em" class="valueColor">Data Governance</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, SQL, R</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, French, Spanish,</tspan>
+<tspan x="370" dy="1.2em" class="valueColor">Half Portuguese</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Data, Analytics, Business</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Building PCs</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Contact</tspan>:
+<tspan x="370" dy="1.2em">——————</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">Email</tspan>: <tspan class="valueColor">tommy_ayala@hotmail.com</tspan>
+<tspan x="370" dy="1.2em" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor"><a href="https://www.linkedin.com/in/tommyayala/" style="fill: #a5d6ff; text-decoration: underline;">tommyayala</a></tspan>
+<tspan x="370" dy="1.2em" class="keyColor">GitHub</tspan>: <tspan class="valueColor">majortom32</tspan>
 </text>
-
 </svg>
